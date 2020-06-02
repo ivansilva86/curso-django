@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Criado App base Django">
-      <change afterPath="$PROJECT_DIR$/pypro/base/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/tests/test_home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/curso-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django.iml" afterDir="false" />
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Criada Infra de Testes com Pytest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
@@ -44,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Ola_Django" />
+        <entry key="$PROJECT_DIR$" value="Pytest_Django" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -245,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591124404764</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Criada Infra de Testes com Pytest">
+      <created>1591127459463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591127459463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +271,8 @@
     <MESSAGE value="Criados arquivos para deploy no Heroku" />
     <MESSAGE value="Acrescentado endereço do app no Heroku" />
     <MESSAGE value="Criado App base Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado App base Django" />
+    <MESSAGE value="Criada Infra de Testes com Pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada Infra de Testes com Pytest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591118686187">
@@ -316,9 +319,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591126793541" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591124422671">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591127464386">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591124422671" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591127464386" />
   </component>
 </project>
