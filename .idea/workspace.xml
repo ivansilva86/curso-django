@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Acrescentada cobertura de testes">
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Acrescentado Lib Python Decouple">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/env-sample" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/env-sample" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Pytest_Django" />
+        <entry key="$PROJECT_DIR$" value="Lib_Decouple" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +57,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contrib" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="Push.Settings">
@@ -67,6 +66,9 @@
     </force-push-targets>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\contrib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro" />
     </key>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591129313408</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Acrescentado Lib Python Decouple">
+      <created>1591130274995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591130274995</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +290,8 @@
     <MESSAGE value="Criado App base Django" />
     <MESSAGE value="Criada Infra de Testes com Pytest" />
     <MESSAGE value="Acrescentada cobertura de testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acrescentada cobertura de testes" />
+    <MESSAGE value="Acrescentado Lib Python Decouple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acrescentado Lib Python Decouple" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591118686187">
@@ -292,22 +302,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591118605761" />
-    <state width="1258" height="185" key="GridCell.Tab.0.bottom" timestamp="1591129858662">
+    <state width="1258" height="185" key="GridCell.Tab.0.bottom" timestamp="1591130952710">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591129858662" />
-    <state width="1258" height="185" key="GridCell.Tab.0.center" timestamp="1591129858661">
+    <state width="1258" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591130952710" />
+    <state width="1258" height="185" key="GridCell.Tab.0.center" timestamp="1591130952710">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591129858661" />
-    <state width="1258" height="185" key="GridCell.Tab.0.left" timestamp="1591129858661">
+    <state width="1258" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591130952710" />
+    <state width="1258" height="185" key="GridCell.Tab.0.left" timestamp="1591130952709">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591129858661" />
-    <state width="1258" height="185" key="GridCell.Tab.0.right" timestamp="1591129858662">
+    <state width="1258" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591130952709" />
+    <state width="1258" height="185" key="GridCell.Tab.0.right" timestamp="1591130952710">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591129858662" />
+    <state width="1258" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591130952710" />
     <state width="1258" height="230" key="GridCell.Tab.1.bottom" timestamp="1591118902250">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -328,9 +338,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591126793541" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591129317861">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591130277252">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591129317861" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591130277252" />
   </component>
 </project>
