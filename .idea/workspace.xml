@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Configurado Allowed Host">
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Endereço da biblioteca dj_databalse_url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/env-sample" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/env-sample" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Secret_Key" />
+        <entry key="$PROJECT_DIR$" value="dj-database-url" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -279,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591133867696</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Endereço da biblioteca dj_databalse_url">
+      <created>1591135337125</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591135337125</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +316,8 @@
     <MESSAGE value="Acrescentado Lib Python Decouple" />
     <MESSAGE value="Configurado Secret Key" />
     <MESSAGE value="Configurado Allowed Host" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurado Allowed Host" />
+    <MESSAGE value="Endereço da biblioteca dj_databalse_url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Endereço da biblioteca dj_databalse_url" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591118686187">
@@ -319,22 +328,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591118605761" />
-    <state width="1258" height="185" key="GridCell.Tab.0.bottom" timestamp="1591134476101">
+    <state width="1258" height="185" key="GridCell.Tab.0.bottom" timestamp="1591135966909">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591134476101" />
-    <state width="1258" height="185" key="GridCell.Tab.0.center" timestamp="1591134476100">
+    <state width="1258" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591135966909" />
+    <state width="1258" height="185" key="GridCell.Tab.0.center" timestamp="1591135966908">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591134476100" />
-    <state width="1258" height="185" key="GridCell.Tab.0.left" timestamp="1591134476100">
+    <state width="1258" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591135966908" />
+    <state width="1258" height="185" key="GridCell.Tab.0.left" timestamp="1591135966908">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591134476100" />
-    <state width="1258" height="185" key="GridCell.Tab.0.right" timestamp="1591134476101">
+    <state width="1258" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591135966908" />
+    <state width="1258" height="185" key="GridCell.Tab.0.right" timestamp="1591135966908">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1258" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591134476101" />
+    <state width="1258" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591135966908" />
     <state width="1258" height="230" key="GridCell.Tab.1.bottom" timestamp="1591118902250">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -355,9 +364,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591126793541" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591133875800">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591135339689">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591133875800" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591135339689" />
   </component>
 </project>
