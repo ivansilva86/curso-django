@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Testando Postgresql no Travis">
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Comando de Coleta de Arquivos Estáticos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dj-database-url" />
+        <entry key="$PROJECT_DIR$" value="Postgresql_travis" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -291,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591136650320</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Comando de Coleta de Arquivos Estáticos">
+      <created>1591137809508</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591137809508</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +328,8 @@
     <MESSAGE value="Configurado Allowed Host" />
     <MESSAGE value="Endereço da biblioteca dj_databalse_url" />
     <MESSAGE value="Testando Postgresql no Travis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testando Postgresql no Travis" />
+    <MESSAGE value="Comando de Coleta de Arquivos Estáticos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comando de Coleta de Arquivos Estáticos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591118686187">
@@ -369,9 +376,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591126793541" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591136653599">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591137814674">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591136653599" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591137814674" />
   </component>
 </project>
