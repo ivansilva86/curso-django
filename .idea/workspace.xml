@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Instalação Pipenv_Travis_Pyup">
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/curso-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django.iml" afterDir="false" />
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Criados arquivos para deploy no Heroku">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Install_Pipenv_Trais_Pyup" />
+        <entry key="$PROJECT_DIR$" value="Setup_Manage" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591113644750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Instalação Manage">
+      <created>1591116171847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591116171847</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Instalação Manage">
+      <created>1591116215533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591116215533</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Criados arquivos para deploy no Heroku">
+      <created>1591117220554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591117220554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,16 +124,18 @@
     <MESSAGE value="Primeiro Comit" />
     <MESSAGE value="Instalação Pipenv" />
     <MESSAGE value="Instalação Pipenv_Travis_Pyup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instalação Pipenv_Travis_Pyup" />
+    <MESSAGE value="Instalação Manage" />
+    <MESSAGE value="Criados arquivos para deploy no Heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criados arquivos para deploy no Heroku" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="11" key="SettingsEditor" timestamp="1591114670379">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591114670379" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591113647050">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591116217006">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591113647050" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591116217006" />
   </component>
 </project>
