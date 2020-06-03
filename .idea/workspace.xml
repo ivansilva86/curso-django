@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Otimizando Uploads com Collectfast">
-      <change afterPath="$PROJECT_DIR$/pypro/base/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Otimizando Uploads com Collectfast" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -327,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591150375688</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Otimizando Uploads com Collectfast">
+      <created>1591197173807</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591197173807</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
