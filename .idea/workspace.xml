@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Admin do Usuário">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Admin do Usuário" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Makemigrations" />
+        <entry key="$PROJECT_DIR$" value="Admin_Usuario" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,7 +178,7 @@
       <updated>1591106338454</updated>
       <workItem from="1591220859323" duration="3828000" />
       <workItem from="1591225829002" duration="1111000" />
-      <workItem from="1591297221716" duration="7291000" />
+      <workItem from="1591297221716" duration="8151000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Comit">
       <created>1591106917568</created>
@@ -364,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591304023557</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Admin do Usuário">
+      <created>1591304786765</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591304786765</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,10 +456,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591225157587" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591304028810">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591304801926">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591304028810" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591304801926" />
     <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1591303082195">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
