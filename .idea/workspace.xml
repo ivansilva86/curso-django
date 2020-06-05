@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Django Debug Toolbar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Monitorando Erros com Sentry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Backup_Postgresql" />
+        <entry key="$PROJECT_DIR$" value="Django_Debug_Toolbar" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -181,7 +179,7 @@
       <workItem from="1591220859323" duration="3828000" />
       <workItem from="1591225829002" duration="1111000" />
       <workItem from="1591297221716" duration="12553000" />
-      <workItem from="1591356318817" duration="5012000" />
+      <workItem from="1591356318817" duration="8661000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Comit">
       <created>1591106917568</created>
@@ -386,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591360917899</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Django Debug Toolbar">
+      <created>1591361615662</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591361615662</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Monitorando Erros com Sentry">
+      <created>1591365016377</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591365016377</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +440,8 @@
     <MESSAGE value="Admin do Usuário" />
     <MESSAGE value="Aplicando Migrações no Heroku" />
     <MESSAGE value="Django Debug Toolbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Debug Toolbar" />
+    <MESSAGE value="Monitorando Erros com Sentry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monitorando Erros com Sentry" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591225174064">
@@ -439,22 +452,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591221581907" />
-    <state width="1236" height="160" key="GridCell.Tab.0.bottom" timestamp="1591361361212">
+    <state width="1236" height="160" key="GridCell.Tab.0.bottom" timestamp="1591364624353">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591361361212" />
-    <state width="1236" height="160" key="GridCell.Tab.0.center" timestamp="1591361361212">
+    <state width="1236" height="160" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591364624353" />
+    <state width="1236" height="160" key="GridCell.Tab.0.center" timestamp="1591364624352">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591361361212" />
-    <state width="1236" height="160" key="GridCell.Tab.0.left" timestamp="1591361361212">
+    <state width="1236" height="160" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591364624352" />
+    <state width="1236" height="160" key="GridCell.Tab.0.left" timestamp="1591364624352">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591361361212" />
-    <state width="1236" height="160" key="GridCell.Tab.0.right" timestamp="1591361361212">
+    <state width="1236" height="160" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591364624352" />
+    <state width="1236" height="160" key="GridCell.Tab.0.right" timestamp="1591364624353">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591361361212" />
+    <state width="1236" height="160" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591364624353" />
     <state width="1258" height="230" key="GridCell.Tab.1.bottom" timestamp="1591151118966">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -475,16 +488,16 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591316719194" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591360923928">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591365019126">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591360923928" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591365019126" />
     <state x="573" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1591359471300">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="573" y="97" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1591359471300" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591360681003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591364624333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
