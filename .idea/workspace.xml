@@ -19,40 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Monitorando Erros com Sentry">
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Instalando Arquivos Estáticos Localmente">
+      <change afterPath="$PROJECT_DIR$/pypro/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/base/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/django_assertions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/base/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/tests/test_home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +50,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Django_Debug_Toolbar" />
+        <entry key="$PROJECT_DIR$" value="Monitor_Erros_Sentry" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,15 +82,16 @@
     </force-push-targets>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\static\js" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\static\css" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\templates\base" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\contrib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\" />
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Django">
@@ -183,6 +159,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_home.test_home_link" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home.test_home_link&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_home.test_status_code" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="curso-django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,12 +193,71 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_home.test_title" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home.test_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_home.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pypro/base/tests/test_home.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pypro/base/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Django" />
+      <item itemvalue="Python tests.pytest for test_home.test_home_link" />
       <item itemvalue="Python tests.pytest for test_home.test_status_code" />
+      <item itemvalue="Python tests.pytest for test_home.test_title" />
+      <item itemvalue="Python tests.pytest in test_home.py" />
+      <item itemvalue="Python tests.pytest in tests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests" />
+        <item itemvalue="Python tests.pytest in test_home.py" />
+        <item itemvalue="Python tests.pytest for test_home.test_home_link" />
+        <item itemvalue="Python tests.pytest for test_home.test_title" />
         <item itemvalue="Python tests.pytest for test_home.test_status_code" />
       </list>
     </recent_temporary>
@@ -223,7 +275,9 @@
       <workItem from="1591220859323" duration="3828000" />
       <workItem from="1591225829002" duration="1111000" />
       <workItem from="1591297221716" duration="12553000" />
-      <workItem from="1591356318817" duration="17129000" />
+      <workItem from="1591356318817" duration="24753000" />
+      <workItem from="1591563915818" duration="174000" />
+      <workItem from="1591637333551" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Comit">
       <created>1591106917568</created>
@@ -449,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591365263444</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Instalando Arquivos Estáticos Localmente">
+      <created>1591381951747</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591381951747</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,33 +553,38 @@
     <MESSAGE value="Aplicando Migrações no Heroku" />
     <MESSAGE value="Django Debug Toolbar" />
     <MESSAGE value="Monitorando Erros com Sentry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Monitorando Erros com Sentry" />
+    <MESSAGE value="Instalando Arquivos Estáticos Localmente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instalando Arquivos Estáticos Localmente" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591225174064">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1591225174064" />
+    <state x="409" y="208" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1591646557855">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="409" y="208" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1280.760@0.0.1280.760" timestamp="1591646557855" />
     <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1591221581907">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591221581907" />
-    <state width="1236" height="160" key="GridCell.Tab.0.bottom" timestamp="1591381592790">
+    <state width="1236" height="229" key="GridCell.Tab.0.bottom" timestamp="1591646802880">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591381592790" />
-    <state width="1236" height="160" key="GridCell.Tab.0.center" timestamp="1591381592790">
+    <state width="1236" height="229" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
+    <state width="1236" height="229" key="GridCell.Tab.0.center" timestamp="1591646802880">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591381592790" />
-    <state width="1236" height="160" key="GridCell.Tab.0.left" timestamp="1591381592790">
+    <state width="1236" height="229" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
+    <state width="1236" height="229" key="GridCell.Tab.0.left" timestamp="1591646802880">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591381592790" />
-    <state width="1236" height="160" key="GridCell.Tab.0.right" timestamp="1591381592790">
+    <state width="1236" height="229" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
+    <state width="1236" height="229" key="GridCell.Tab.0.right" timestamp="1591646802880">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="160" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591381592790" />
+    <state width="1236" height="229" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
     <state width="1258" height="230" key="GridCell.Tab.1.bottom" timestamp="1591151118966">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -539,10 +605,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591316719194" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591366066636">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591381958283">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591366066636" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591381958283" />
     <state x="430" y="223" key="git4idea.ui.GitTagDialog" timestamp="1591366028346">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -553,6 +619,8 @@
     <state x="573" y="97" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1591376072179" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591381592774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_django$pytest_in_test_home_py.coverage" NAME="pytest in test_home.py Coverage Results" MODIFIED="1591645696190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypro/base/tests" />
+    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591646802855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_django$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1591646744004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypro/base/tests" />
   </component>
 </project>
