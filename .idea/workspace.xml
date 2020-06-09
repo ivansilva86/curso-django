@@ -43,7 +43,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Encapsulando_Urls_Apps" />
+        <entry key="$PROJECT_DIR$" value="Rodape_Site" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -273,7 +273,7 @@
       <workItem from="1591637333551" duration="6571000" />
       <workItem from="1591650456321" duration="4558000" />
       <workItem from="1591660512330" duration="749000" />
-      <workItem from="1591708226489" duration="5193000" />
+      <workItem from="1591708226489" duration="6014000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Comit">
       <created>1591106917568</created>
@@ -520,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591712893760</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Cabeçalho corpo e rodapé prontos">
+      <created>1591714465277</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591714465277</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,10 +623,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591316719194" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591712903451">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591714491657">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591712903451" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591714491657" />
     <state x="430" y="223" key="git4idea.ui.GitTagDialog" timestamp="1591366028346">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
