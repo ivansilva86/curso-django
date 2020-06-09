@@ -10,7 +10,7 @@
 
 	<meta name="description" content="Página do curso Python Pro">
 	<meta name="author" content="Ivan Silva">
-
+	<link rel="icon" type="image/png" href="{% static 'img/favicon.png' %}"/>
 	<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
 	<link href="{% static 'css/style.css' %}" rel="stylesheet">
 	<script src="{% static 'js/jquery.min.js' %}"></script>
@@ -33,40 +33,64 @@
   </div>
 </nav>
 
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
 		<div class="col-md-12">
 			<div class="jumbotron">
 				<h2>
-					Hello, world!
+					Curso de Python: python.pro.br
 				</h2>
 				<p>
-					This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-				</p>
-				<p>
-					<a class="btn btn-primary btn-large" href="#">Learn more</a>
+					Confira em breve mais informações do curso.
+					<a href="https://www.python.pro.br/" target="_blank"> Python-Pro</a>
 				</p>
 			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<div class="card">
-						<h5 class="card-header">
-							Card title
-						</h5>
-						<div class="card-body">
-							<p class="card-text">
-								Card content
-							</p>
-						</div>
-						<div class="card-footer">
-							Card footer
-						</div>
-					</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="card">
+				<h5 class="card-header">
+					Mais informações sobre o aluno:
+				</h5>
+				<div class="card-body">
+					<p class="card-text">
+						<img src="{% static 'img/Foto 200 x 200.png' %}" alt="Foto de Ivan Silva"
+							 class="img-thumbnail float-left mr-3"/>
+						Graduado em Engenharia Eletrônica e de Telecomunicações pela PUC-MG em 2010.
+						Pós-Graduado em Sistemas Eletroeletrônicos e Automação Industrial pelo CEFET-MG em 2015.
+						Com experiência em desenvolvimento de sistemas embarcados, eletrônica, programação em C,
+						Automação Industrial, projetos RF, testes e Internet das Coisas.
+					</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+
+<footer class="main-footer mt-5 pt-4 text-light">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3> Entre em contato</h3>
+				<address>
+					+55 (31)98702-3503
+					<br/>
+					<a href="mailto:ivan@gmail.com">ivan@gmail.com</a>
+				</address>
+			</div>
+		</div>
+	</div>
+	<div class="rights pb-4">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					{% now 'Y' %} Python Pro. Todos direitos reservados.
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
 
   </body>
 </html>

@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Instalando Arquivos Estáticos Localmente">
-      <change afterPath="$PROJECT_DIR$/pypro/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/django_assertions.py" afterDir="false" />
+    <list default="true" id="cb312f43-f6b1-4fb0-a7ed-8e75dc85a3f1" name="Default Changelist" comment="Cabeçalho corpo e rodapé prontos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/tests/test_home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +43,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Monitor_Erros_Sentry" />
+        <entry key="$PROJECT_DIR$" value="Encapsulando_Urls_Apps" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -82,16 +75,16 @@
     </force-push-targets>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\" />
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\static\img" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\static\js" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\static\css" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\templates\base" />
       <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base" />
-      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\contrib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro\base\" />
-      <recent name="C:\Users\Ivan\PycharmProjects\curso-django\pypro" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Django">
@@ -277,7 +270,10 @@
       <workItem from="1591297221716" duration="12553000" />
       <workItem from="1591356318817" duration="24753000" />
       <workItem from="1591563915818" duration="174000" />
-      <workItem from="1591637333551" duration="3054000" />
+      <workItem from="1591637333551" duration="6571000" />
+      <workItem from="1591650456321" duration="4558000" />
+      <workItem from="1591660512330" duration="749000" />
+      <workItem from="1591708226489" duration="5193000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Comit">
       <created>1591106917568</created>
@@ -510,7 +506,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591381951747</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Encapsulando Urls em Apps">
+      <created>1591646919330</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1591646919330</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Cabeçalho corpo e rodapé prontos">
+      <created>1591712893760</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591712893760</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +540,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Primeiro Comit" />
     <MESSAGE value="Instalação Pipenv" />
     <MESSAGE value="Instalação Pipenv_Travis_Pyup" />
     <MESSAGE value="Instalação Manage" />
@@ -554,7 +563,9 @@
     <MESSAGE value="Django Debug Toolbar" />
     <MESSAGE value="Monitorando Erros com Sentry" />
     <MESSAGE value="Instalando Arquivos Estáticos Localmente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instalando Arquivos Estáticos Localmente" />
+    <MESSAGE value="Encapsulando Urls em Apps" />
+    <MESSAGE value="Cabeçalho corpo e rodapé prontos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cabeçalho corpo e rodapé prontos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591225174064">
@@ -569,22 +580,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591221581907" />
-    <state width="1236" height="229" key="GridCell.Tab.0.bottom" timestamp="1591646802880">
+    <state width="1236" height="101" key="GridCell.Tab.0.bottom" timestamp="1591711183440">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="229" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
-    <state width="1236" height="229" key="GridCell.Tab.0.center" timestamp="1591646802880">
+    <state width="1236" height="101" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591711183440" />
+    <state width="1236" height="101" key="GridCell.Tab.0.center" timestamp="1591711183440">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="229" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
-    <state width="1236" height="229" key="GridCell.Tab.0.left" timestamp="1591646802880">
+    <state width="1236" height="101" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591711183440" />
+    <state width="1236" height="101" key="GridCell.Tab.0.left" timestamp="1591711183440">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="229" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
-    <state width="1236" height="229" key="GridCell.Tab.0.right" timestamp="1591646802880">
+    <state width="1236" height="101" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591711183440" />
+    <state width="1236" height="101" key="GridCell.Tab.0.right" timestamp="1591711183440">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="229" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591646802880" />
+    <state width="1236" height="101" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591711183440" />
     <state width="1258" height="230" key="GridCell.Tab.1.bottom" timestamp="1591151118966">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -605,22 +616,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591316719194" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591381958283">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591712903451">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591381958283" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591712903451" />
     <state x="430" y="223" key="git4idea.ui.GitTagDialog" timestamp="1591366028346">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="430" y="223" key="git4idea.ui.GitTagDialog/0.0.1280.760@0.0.1280.760" timestamp="1591366028346" />
-    <state x="573" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1591376072179">
+    <state x="664" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1591710131618">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="573" y="97" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1591376072179" />
+    <state x="664" y="97" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1591710131618" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/curso_django$pytest_in_test_home_py.coverage" NAME="pytest in test_home.py Coverage Results" MODIFIED="1591645696190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypro/base/tests" />
-    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591646802855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_django$Django.coverage" NAME="Django Coverage Results" MODIFIED="1591710912854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/curso_django$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1591646744004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pypro/base/tests" />
   </component>
 </project>
